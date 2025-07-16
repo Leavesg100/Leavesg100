@@ -1,22 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Gethyn
 
-<!--
-**Leavesg100/Leavesg100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Creative technologist | 📊 Systems architect | 🧠 Builder of behavior-aware, explainable analytics engines
 
-Here are some ideas to get you started:
+I love making tools that don’t just analyze data—they respond, adapt, and teach. My work blends interactive design, educational insight, and AI-powered logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-streamlit
-pandas
-scikit-learn
-openpyxl
-numpy
-scikit-learn
+---
+
+## 🔧 Tech Stack
+
+`Streamlit` `pandas` `scikit-learn` `openpyxl` `numpy`
+
+---
+
+## 🚀 Projects
+
+### 📊 [Student Behavior Tracker + Forecast Dashboard](https://leavesg100.streamlit.app)
+A predictive system built with Streamlit that:
+- Tracks behavioral and emotional traits
+- Forecasts academic performance based on system-aware logic
+- Offers strategy suggestions through a responsive chatbot
+- Simulates grade trajectories over 5 years with customizable prediction
+
+Built for educators, analysts, and anyone curious about adaptive systems and transparency in learning tools.
+
+---
+
+## 💬 Ask Me About
+
+- ✨ Designing interactive learning tools
+- 🔍 Behavior modeling and explainable AI
+- 🧩 Gamified logic systems and CTF-style discovery
+- 🛠️ Building adaptive dashboards with Streamlit
